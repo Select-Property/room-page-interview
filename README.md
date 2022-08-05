@@ -43,6 +43,7 @@ The task is to create an inventory page which displays every available room per 
 - Each section should have the location id as a the heading followed by the location address.
 - Each room should be displayed as a card.
 - Each room card should hold the following information.
+  - Room Number
   - Room Type
   - Number of Beds
   - View
@@ -58,6 +59,8 @@ As this is a functional task there is only 1 design requirement, for the reviewe
 ## Examples 
 
 Example implementation: 
+
+(This is an advanced example, please do not feel it necessary to add this amount of deisgn)
 <img width="1087" alt="image" src="https://user-images.githubusercontent.com/49638882/183100251-b8a4328c-c7a3-4b37-b851-b7b3b653acdb.png">
 
 Example Data:
