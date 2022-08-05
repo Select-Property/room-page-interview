@@ -6,6 +6,8 @@ Thanks for taking the time to do our front-end / full-stack coding test. The cha
 
 2) some [follow-up questions](./FOLLOW-UP.md)
 
+### This challnege is time boxed to 2 hours maximum.
+
 ----
 
 You will be graded based on the following have been met:
