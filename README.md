@@ -72,21 +72,23 @@ Example Data:
 ### Location
 
 {
-  "id": "Barcelona",
-  "Address": "76475 Helena Crossing",
-  "objectID": "ae9f097e86581_dashboard_generated_id"
+  "location_id": "manchester",
+  "name": "Manchester",
+  "address": "8903 Superior Street",
+  "objectID": "b035252d492ea_dashboard_generated_id"
 }
 
 ### Room
 {
-  "room_number": 7891,
-  "room_type": "Cluster",
-  "location": "Manchester",
-  "beds": 2,
-  "view": "Courtyard",
-  "price": 323.69,
+  "room_number": 7638,
+  "room_type": "Deluxe",
+  "location_id": "manchester",
+  "beds": 1,
+  "view": "Pool",
+  "price": 255.16,
   "currency": "GBP",
-  "objectID": "fb11ad8b7cefe_dashboard_generated_id"
+  "availability": "available",
+  "objectID": "a20455fa179c1_dashboard_generated_id"
 }
 
 ## Submission Guidelines
