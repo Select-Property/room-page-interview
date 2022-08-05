@@ -91,8 +91,3 @@ Example Data:
 * The zip file should contain the [FOLLOW-UP.md](./FOLLOW-UP.md) file with answers to the follow-up questions.
 
 * The zip file should **not** include the `node_modules` folder. (If Applicable)
-
-
-----
-
-Inspiration for the test format taken with ❤️ from [JustEat's recruitment test](https://github.com/justeat/JustEat.RecruitmentTest).
