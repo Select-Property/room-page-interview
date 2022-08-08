@@ -2,7 +2,7 @@
 
 Thanks for taking the time to do our front-end / full-stack coding test. The challenge has two parts:
 
-1) a [task](#task) to create a basic flight results front-end site to show flight prices
+1) a [task](#task) create a room page view to display all rooms and locations 
 
 2) some [follow-up questions](./FOLLOW-UP.md)
 
