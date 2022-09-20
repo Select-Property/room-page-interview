@@ -21,7 +21,7 @@ You will be graded based on the following have been met:
 ## Prerequisites/Environment Setup
 
 This task will be using algolia as it's data source, you can find all infomration on how to use this tool by viewing the following page.
-https://www.algolia.com/doc/api-client/getting-started/install/javascript/?client=javascript
+https://www.algolia.com/doc/
 
 Hint: You should be looking at the search functionality to retrieve data.
 
